@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## [Magento 2 Extensions](ttps://www.jajuma.de/jajuma-develop) by [JaJuMa](https://www.jajuma.de/)
+## [Magento 2 Extensions](https://www.jajuma.de/jajuma-develop) by [JaJuMa](https://www.jajuma.de/)
 
 
   * :framed_picture: Performance & UX:<br>[WebP Optimized Images for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/webp-optimized-images-extension-for-magento-2#portfolio-content)<br>
